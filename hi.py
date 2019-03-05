@@ -18,4 +18,4 @@ if answer1 == "yes":
     else:
         print ("It is bad, because you would meet them")
 else:
-    print ("So, i am sure, that you should like it.")
+    print ("So, i am sure, that you should like it.")print("Yes!")
