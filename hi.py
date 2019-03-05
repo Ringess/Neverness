@@ -19,3 +19,12 @@ if answer1 == "yes":
         print ("It is bad, because you would meet them")
 else:
     print ("So, i am sure, that you should like it.")
+    
+print ("You can choose your path now. Tell me, what you prefer?" + "\n","1 - become an adventurer\n","2 - become a researcher")
+prof=input()
+if prof == "1":
+    print("It is a good choise. You will participate in many adventures!")
+elif prof == "2":
+    print("Now you can become a wisest person in the world and get a hidden knowledge!")
+else:
+    print("So, you will be just a human. It is good too.")
